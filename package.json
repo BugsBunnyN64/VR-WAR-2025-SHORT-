@@ -1,0 +1,10 @@
+{
+    "name": "the-legend-of-catgirl---breath-of-the-dirty-vrs-wild-beard-v",
+    "main": "main.js",
+    "version": "1.70.065",
+    "window": {
+        "width": 480,
+        "height": 408,
+        "icon": "icon.png"
+    }
+}
